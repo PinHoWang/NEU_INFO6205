@@ -1,3 +1,3 @@
 # NEU_INFO6205
 
-INFO 6205 Course Assignments
+Northeastern University INFO 6205 2018 fall
